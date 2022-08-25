@@ -13242,22 +13242,22 @@ ul.ul-edu li .description p.institution {
 
 .avatar-wrapper {
   position: relative;
-  width: 225px;
-  height: 225px;
+  width: 150px;
+  height: 150px;
   margin-left: auto;
   margin-right: auto
 }
 
 .avatar-wrapper .avatar-emoji {
   position: absolute;
-  width: 60px;
-  height: 60px;
-  line-height: 60px;
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
   border-radius: 100%;
   bottom: 0;
   right: 0;
   text-align: center;
-  font-size: 40px;
+  font-size: 28px;
   background-color: #fff;
   color: #000;
   box-shadow: 0 10px 20px rgba(0, 0, 0, 4%), 0 2px 6px rgba(0, 0, 0, 4%), 0 0 1px rgba(0, 0, 0, 4%)
@@ -13712,7 +13712,7 @@ div.chart {
 }
 
 ul.network-icon .big-icon {
-  font-size: 2.0rem
+  font-size: 1.8rem
 }
 
 @media(max-width:767.98px) {
